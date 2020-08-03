@@ -1,0 +1,38 @@
+.App {
+  text-align: center;
+}
+
+
+
+.App-header {
+  background-color: #282c34;
+  min-height: 60px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.addbtn {
+  cursor: pointer;
+  border: none;
+  background-color: #555;
+  color: #fff;
+  padding: 7px 20px;
+  display: inline-block;
+}
+
+.buttn {
+  background-color: red;
+  color: black;
+  text-decoration-color: black;
+  border: none;
+  cursor: pointer;
+  padding: 5px 10px;
+  float: right;
+  border-radius: 50%;
+  
+}
+
